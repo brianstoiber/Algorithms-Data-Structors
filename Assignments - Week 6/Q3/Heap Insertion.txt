@@ -1,0 +1,20 @@
+I performed a Max and Min heap insertion and they only look similar in the sense that they are balanced the same way. The numbers that are inserted would be ordered differently in the respective nodes for each of the different trees. 
+
+
+Max Heap Insertion
+	     58
+	   /    \
+	 48      26
+       /   \    /   \  
+     30    40  24    11 
+    /
+  13
+
+Min Heap Insertion
+	     1
+	   /    \
+	 13      24
+       /   \    /   \  
+     40    48  30    26
+    /
+  58
